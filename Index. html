@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faisal Shah - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Faisal Shah</h1>
+        <p>Cybersecurity Specialist | Innovator | Data Science Enthusiast</p>
+    </header>
+    <nav class="navbar">
+        <a href="#about">About Me</a>
+        <a href="#experience">Experience</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi! I’m Faisal Shah, a Computer Science graduate with hands-on experience in cybersecurity. 
+        I’ve collaborated with Mastercard and J.P. Morgan to deliver secure IAM solutions and protect digital infrastructures.</p>
+        <p>Passionate about safeguarding digital assets and enabling secure business growth.</p>
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Cybersecurity Analyst - Mastercard:</strong> Strengthened digital infrastructure and conducted security assessments.</li>
+            <li><strong>Consultant - J.P. Morgan:</strong> Delivered innovative IAM solutions.</li>
+        </ul>
+    </section>
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Google Cybersecurity Certification</li>
+            <li>Cisco Data Science Certification</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Diabetic Retinopathy Prediction:</strong> Created a machine learning model to predict diabetic retinopathy.</li>
+            <li><strong>Photography Website:</strong> Built a website showcasing the beauty of Kashmir.</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:Faidalshah1@gmail.com">Faidalshah1@gmail.com</a></p>
+        <p>Phone: 8825099116</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/faisal-shah-a17197274">Faisal Shah</a></p>
+    </section>
+</body>
+</html>
